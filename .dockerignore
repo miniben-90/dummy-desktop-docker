@@ -1,0 +1,9 @@
+build.sh
+.git
+Dockerfile
+.DS_Store
+.gitignore
+.dockerignore
+*.md
+.action.yml
+test
