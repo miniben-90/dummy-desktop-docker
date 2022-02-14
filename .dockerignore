@@ -1,5 +1,6 @@
 build.sh
 .git
+.github
 Dockerfile
 .DS_Store
 .gitignore
