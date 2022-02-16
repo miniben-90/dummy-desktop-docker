@@ -88,7 +88,8 @@ RUN \
   libsigc++-2.0-0v5 \
   libssh-4 \
   libvsqlitepp3v5 \
-  libzip5 && \
+  libzip5 \
+  yaru-theme-icon && \
   echo "....cleanup...." && \
   apt-get autoclean -y && \
   apt-get autoremove -y && \
